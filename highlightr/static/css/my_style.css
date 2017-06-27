@@ -1,0 +1,66 @@
+BODY {
+    font-family: 'HelveticaNeue-Light', 'Helvetica';
+    font-size: 14pt;
+}
+
+
+H1.highlight {
+  padding: 0.1em;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 48pt;
+  text-align: center;
+}
+H1.highlight>SPAN {
+  background-color: yellow;
+  padding-left: 0.1em;
+  padding-right: 0.1em;
+}
+
+H3 {
+  font-weight: bold;
+}
+
+SPAN.blue {
+  color: rgb(77, 124, 209);
+}
+
+.form INPUT, .form BUTTON {
+  font-size: 24pt;
+  font-family: 'HelveticaNeue-Light', 'Helvetica';
+}
+
+.form INPUT {
+  width: 25em;
+}
+
+.top_highlight {
+  font-size: 16pt;
+  font-family: 'HelveticaNeue-Light', 'Helvetica';
+}
+
+.medium_highlight {
+    background-color: rgb(193,255,172);
+}
+
+.suggest {
+  font-size: 14pt;
+  margin-top: 2em;
+}
+
+.article_title {
+  font-weight: bold;
+}
+
+.table-results TD {
+  font-size: 12pt;
+}
+
+.oops {
+  font-weight: bold;
+  color: #660000;
+  font-size: 14pt;
+}
+
+A.suggested_link {
+  font-weight: bold;
+}
